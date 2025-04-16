@@ -3,7 +3,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    color: #2E8B57;
+    color: #64e79d;
     background-color: #FFFFFF;
 }
 
@@ -11,7 +11,7 @@ header {
     background-color: #F8F8FF;
     padding: 20px;
     text-align: center;
-    border-bottom: 4px solid #B0C4DE;
+    border-bottom: 4px solid #a010b3;
 }
 
 section {
