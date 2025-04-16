@@ -3,7 +3,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    color: #64e79d;
+    color: #6ac9f5;
     background-color: #FFFFFF;
 }
 
@@ -17,7 +17,7 @@ header {
 section {
     padding: 20px;
     margin: 20px;
-    background-color: rgba(248, 248, 255, 0.3);
+    background-color: rgb(211, 162, 252);
     border: 4px solid #a010b3;
 }
 
