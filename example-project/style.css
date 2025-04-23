@@ -11,14 +11,14 @@ header {
     background-color: #F8F8FF;
     padding: 20px;
     text-align: center;
-    border-bottom: 4px solid #B0C4DE;
+    border-bottom: 4px solid #05408f;
 }
 
 section {
     padding: 20px;
     margin: 20px;
     background-color: rgba(248, 248, 255, 0.3);
-    border: 4px solid #B0C4DE;
+    border: 4px solid #053c83;
 }
 
 h1, h2, h3 {
