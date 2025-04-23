@@ -3,12 +3,12 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    color: #2E8B57;
+    color: #250480;
     background-color: #FFFFFF;
 }
 
 header {
-    background-color: #F8F8FF;
+    background-color: #e5abf3;
     padding: 20px;
     text-align: center;
     border-bottom: 4px solid #05408f;
@@ -65,7 +65,7 @@ input, textarea {
 
 button {
     padding: 10px;
-    background-color: #2E8B57;
+    background-color: #051286;
     color: #FFFFFF;
     border: none;
     font-family: 'Press Start 2P', 'Courier New', monospace;
@@ -89,6 +89,6 @@ footer {
 }
 
 footer a {
-    color: #2E8B57;
+    color: #0e0597;
     text-decoration: none;
 }
