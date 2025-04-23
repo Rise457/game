@@ -1,9 +1,9 @@
 {
-  "name": "BreakoutGame",
-  "short_name": "BreakoutGame",
+  "name": "Smiley Cloth",
+  "short_name": "Smiley Cloth",
   "id": "com.example.gamename",
   "description": "",
-  "orientation": "landscape",
+  "orientation": "portrait",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "black",
